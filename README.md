@@ -21,16 +21,16 @@ A sparsity loss (L1 penalty on gate values) is added to the training loss to enc
 
 ## Project Structure
 
-'''
+```
 self-pruning-neural-network/
 ├── main.py
 ├── report.md
 ├── README.md
 └── results/
-├── gate_distribution.png
-├── best_model.pth
-└── results.txt
-'''
+    ├── gate_distribution.png
+    ├── best_model.pth
+    └── results.txt
+```
 
 ---
 
