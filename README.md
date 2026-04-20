@@ -2,8 +2,6 @@
 
 A neural network that learns to prune itself during training using learnable gate parameters and L1 sparsity regularization, implemented on CIFAR-10.
 
-Built as part of the **Tredence AI Engineering Internship Case Study**.
-
 ---
 
 ## How It Works
